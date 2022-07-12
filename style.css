@@ -1,0 +1,42 @@
+.btn{
+    padding: 5px 20px; 
+    color: white; 
+    background-color: black; 
+    border-radius: 20px; 
+    text-decoration: none;
+    }
+.btn:hover{
+    color: white; 
+    background-color: darkgray;}
+h1{
+    text-align: center;}
+a{
+    text-decoration: none; 
+    color: white; 
+    background-color: black; 
+    border-radius: 20px;
+    font-size: 20px;}
+a:hover{
+    color: darkgray;}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+    margin-left: -41px;
+    cursor: pointer;}
+.main li{ 
+    text-decoration: none;
+    padding: 10px 24px; 
+    background-color: black; 
+    border-radius: 13px;
+    margin-bottom: 10px;
+    width: 50px;
+    text-align: center;
+}
+.main li a{
+    color: white; }
+img{
+    margin-bottom: 20px;
+}
+
