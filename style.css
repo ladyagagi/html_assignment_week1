@@ -14,7 +14,9 @@ main{
     color: white; 
     background-color: darkgray;}
 h1{
-    text-align: center;}
+    text-align: center;
+    margin: 20px;
+}
 a{
     text-decoration: none; 
     color: white; 
