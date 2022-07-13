@@ -3,6 +3,8 @@ main{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width: 100vw;
+    height: 100vh;
 }
 .btn{
     padding: 5px 20px; 
