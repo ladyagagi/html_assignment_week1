@@ -34,7 +34,7 @@ ul{
     list-style: none;
     margin-left: -41px;
     cursor: pointer;}
-.main li{ 
+.nav li{ 
     text-decoration: none;
     padding: 10px 24px; 
     background-color: black; 
@@ -43,7 +43,7 @@ ul{
     width: 50px;
     text-align: center;
 }
-.main li a{
+.nav li a{
     color: white; }
 img{
     margin-bottom: 20px;
