@@ -14,7 +14,8 @@ main{
     }
 .btn:hover{
     color: white; 
-    background-color: darkgray;}
+    background-color: darkgray;
+}
 h1{
     text-align: center;
     margin: 20px;
@@ -26,7 +27,8 @@ a{
     border-radius: 20px;
     font-size: 20px;}
 a:hover{
-    color: darkgray;}
+    color: darkgray;
+}
 ul{
     display: flex;
     flex-direction: column;
@@ -36,14 +38,15 @@ ul{
 .nav li{ 
     text-decoration: none;
     padding: 10px 24px; 
-    background-color: black; 
+    border: 1px solid black; 
     border-radius: 13px;
     margin-bottom: 10px;
     width: 50px;
     text-align: center;
 }
 .nav li a{
-    color: white; }
+    color: black; 
+}
 img{
     margin-bottom: 20px;
 }
