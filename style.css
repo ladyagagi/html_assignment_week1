@@ -22,8 +22,7 @@ h1{
 }
 a{
     text-decoration: none; 
-    color: white; 
-    background-color: black; 
+    color: black; 
     border-radius: 20px;
     font-size: 20px;}
 a:hover{
@@ -52,4 +51,3 @@ ul{
 img{
     margin-bottom: 20px;
 }
-
