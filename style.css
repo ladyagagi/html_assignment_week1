@@ -34,7 +34,9 @@ ul{
     flex-direction: column;
     align-items: center;
     list-style: none;
-    cursor: pointer;}
+    cursor: pointer;
+    margin-left: -41px;
+}
 .nav li{ 
     text-decoration: none;
     padding: 10px 24px; 
